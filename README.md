@@ -19,8 +19,6 @@
 
 
 
-### 👑 GitHub Status
-___
 
 
 ### Tools I Work With
