@@ -24,7 +24,7 @@
 ### Tools I Work With
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,html,css,git,docker,bash,bootstrap,express,firebase,linux,mongodb,netlify,nodejs,react,vite,tailwind,mysql" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,html,css,tailwind,bootstrap,git,bash,linux,express,nodejs" />
   </a>
 </p>
 
