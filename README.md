@@ -11,7 +11,7 @@
   
 ### Hey people 👋
 
-### I'm Anshuman. FullStack Developer...
+### I'm Anshuman. FullStack Developer....
 
 </div>
 
