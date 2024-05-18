@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/thecodingspacerd-coding-coder-the-space-liRTgRfK9XljrH2EFt/fullscreen" width="100"/>
-<!-- https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif -->
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<!-- -->
   
 </div>
 
@@ -25,7 +25,7 @@
 ### Tools I Work With
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,html,css,tailwind,react,bootstrap,git,bash,kali,express,nodejs,mongodb,postman" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,c,html,css,tailwind,react,bootstrap,git,bash,kali,express,nodejs,mongodb,postman" />
   </a>
 </p>
 
