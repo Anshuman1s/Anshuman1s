@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-<!--  -->
+  <img src="https://www.freepik.com/free-vector/colourful-illustration-programmer-working_5483080.htm#query=developers&position=33&from_view=keyword&track=sph&uuid=8f00f660-2469-4177-8c00-7975f4d10cb3" width="100"/>
+<!-- https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif -->
   
 </div>
 
