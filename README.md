@@ -27,9 +27,10 @@
     <img src="https://skillicons.dev/icons?i=java,javascript,c,html,css,tailwind,react,bootstrap,git,bash,kali,express,nodejs,mongodb,postman" />
   </a>
 </p>
-<div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alanjames00&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-<div/>
+
+ ![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshuman1s&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuman1s&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
