@@ -29,9 +29,7 @@
 </p>
 
  <!--![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anshuman1s&show_icons=true&theme=dark)-->
-<div display="flex" align-items="center">
-</div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuman1s&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuman1s&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
