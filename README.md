@@ -1,3 +1,8 @@
+<!-- Import Outfit Font -->
+<link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&display=swap" rel="stylesheet">
+
+<div style="font-family: 'Outfit', sans-serif;">
+
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="120"/>
 </div>
@@ -35,7 +40,7 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/anshuman-shukla-006a17231/](https://www.linkedin.com/in/anshumanshukla12/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="https://www.linkedin.com/in/anshumanshukla12/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
   <a href="mailto:anshumanshukla.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
   <a href="https://github.com/Anshuman1s"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
 </p>
@@ -43,3 +48,5 @@
 ---
 
 💡 *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+
+</div>
