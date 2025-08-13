@@ -19,7 +19,7 @@
 ### 🛠️ Tools & Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,c,html,css,tailwind,bootstrap,react,redux,vite,nextjs,nodejs,express,mongodb,git,github,bash,postman,docker,kubernetes,aws,vercel,netlify,pug,npm,kali&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,vscode,c,html,css,tailwind,bootstrap,react,redux,vite,nextjs,nodejs,express,mongodb,git,github,bash,postman,docker,kubernetes,aws,vercel,netlify,pug,npm,kali&theme=dark" />
   </a>
 </p>
 
@@ -35,8 +35,8 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/anshuman-shukla-006a17231/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-  <a href="mailto:shuklaanshuman888@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+  <a href="https://www.linkedin.com/in/anshuman-shukla-006a17231/](https://www.linkedin.com/in/anshumanshukla12/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="mailto:anshumanshukla.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
   <a href="https://github.com/Anshuman1s"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
 </p>
 
