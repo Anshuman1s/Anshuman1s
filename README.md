@@ -1,34 +1,45 @@
-
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-<!-- -->
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120"/>
 </div>
 
+<h1 align="center">Hey there 👋, I'm Anshuman</h1>
+<h3 align="center">🚀 Full Stack Developer | 💡 Problem Solver | 🌱 Lifelong Learner</h3>
 
-<center>
-<div style="text-align: center; ">
-  
-  
-### Hey people 👋
+---
 
-### I'm Anshuman, FullStack Developer....
+### 👨‍💻 About Me
+- 🔭 I’m currently working on **MERN & Next.js Projects**
+- 🌱 Learning & exploring **System Design** and **Cloud Technologies**
+- 💬 Ask me about **Java, React, Node.js, and Backend APIs**
+- 🎯 Goal: **Build impactful products that solve real-world problems**
+- ⚡ Fun fact: I can debug faster with coffee ☕
 
-</div>
+---
 
-### Tools I Work With
+### 🛠️ Tools & Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,c,html,css,tailwind,react,vite,github,redux,bootstrap,git,bash,kali,express,nodejs,mongodb,postman,typescript,python,npm,nextjs,vercel,netlify,aws,pug,docker,kubernetes," />
+    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python,c,html,css,tailwind,bootstrap,react,redux,vite,nextjs,nodejs,express,mongodb,git,github,bash,postman,docker,kubernetes,aws,vercel,netlify,pug,npm,kali&theme=dark" />
   </a>
 </p>
 
- <!--![Anshuman's GitHub stats] (https://github-readme-stats.vercel.app/api?username=Anshuman1s&show_icons=true&theme=dark)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuman1s&layout=compact&theme=dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anshuman1s&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshuman1s&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" height="160"/>
+</p>
 
+---
 
+### 🌐 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/anshuman-shukla-006a17231/"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="mailto:shuklaanshuman888@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+  <a href="https://github.com/Anshuman1s"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+</p>
 
+---
 
-
-
-
+💡 *"Code is like humor. When you have to explain it, it’s bad." – Cory House*
