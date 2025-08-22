@@ -7,7 +7,7 @@
   <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="120"/>
 </div>
 
-<h1 align="center">Hey there 👋, I'm Anshuman</h1>
+<h1 align="center">Hey there, I'm Anshuman</h1>
 <h3 align="center">🚀 Full Stack Developer | 💡 Problem Solver | 🌱 Lifelong Learner</h3>
 
 ---
