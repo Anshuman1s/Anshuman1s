@@ -24,7 +24,7 @@
 ### 🛠️ Tools & Technologies
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,vscode,c,html,css,tailwind,bootstrap,react,redux,vite,nextjs,nodejs,express,mongodb,git,github,bash,postman,docker,kubernetes,aws,vercel,netlify,pug,npm,kali&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,vscode,c,html,css,tailwind,bootstrap,react,redux,vite,nextjs,nodejs,express,mongodb,git,github,bash,postman,docker,kubernetes,aws,vercel,netlify,pug,npm,kali,chatgpt&theme=dark" />
   </a>
 </p>
 
