@@ -17,7 +17,7 @@
 - 🌱 Learning & exploring **System Design** and **Cloud Technologies**
 - 💬 Ask me about **Java, React, Node.js, and Backend APIs**
 - 🎯 Goal: **Build impactful products that solve real-world problems**
-- ⚡ Fun fact: I can debug faster with coffee ☕
+- ⚡ Fun fact: I can debug faster with coffee☕
 
 ---
 
