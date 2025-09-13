@@ -1,7 +1,7 @@
 <!-- Import Outfit Font -->
 <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&display=swap" rel="stylesheet">
 
-<div style="font-family: 'Outfit', sans-serif;">
+<div style="font-family: 'Outfit', sans-serif; ">
 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="120"/>
