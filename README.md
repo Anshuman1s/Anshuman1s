@@ -8,7 +8,7 @@
 </div>
 
 <h1 align="center">Hey there, I'm Anshuman Shukla</h1>
-<h3 align="center">🚀 Full Stack Developer | 💡 Problem Solver | 🌱 Lifelong Learner</h3>
+<h3 align="center">🚀 Full Stack Developer | 💡 Problem Solver</h3>
 
 ---
 
